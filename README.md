@@ -10,7 +10,7 @@ What about the process of working through a design document did you find helpful
 
 
 If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
-- I would redo the table if I had to do something over becasue even though i did learn a lot about the different systems from doing that table but i am sure that there is a lot of other information that could go into that table that I did not touch on.
+- I would redo the table if I had to do something over because even though i did learn a lot about the different systems from doing that table but i am sure that there is a lot of other information that could go into that table that I did not touch on.
 
 How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
 - I think that it is important to consider the user because they are the ones that are going to be using it and if they are not happy with how the system operates then they probably will not want to use the application as much if they experiance problems with it or other difficulties 
